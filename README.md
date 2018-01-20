@@ -11,6 +11,8 @@
 
   
 ## links
+http://openpixelcontrol.org/
+
 https://forum.openframeworks.cc/t/mapping-video-to-a-simple-rgb-led-matrix/2209/2
 
 https://forum.openframeworks.cc/t/please-remember-me-when-im-gone/1409
