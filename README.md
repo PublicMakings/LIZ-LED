@@ -1,4 +1,7 @@
 # LIZ-LED
+1.27.18
+[because of processing 3](https://groups.google.com/forum/#!topic/fadecandy/AMPRMHGqunE) make this change in OPC.pde around line 30.
+registerMethod("Draw", this);
 
 1.20.18 for the fadecandy, I believe what we will have to do is create a JSON file to create our own map for the Pixel grid.
 
