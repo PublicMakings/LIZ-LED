@@ -1,6 +1,8 @@
 # LIZ-LED
 
-[WAP access to fadecandy... raspberryPi's should work...](http://scanlime.org/2014/02/standalone-wifi-fadecandy-server/)
+[WAP access to fadecandy... raspberryPi's should work...](http://scanlime.org/2014/02/standalone-wifi-fadecandy-server/);
+maybe an important component of this scenario-[openWRT on PI](https://wiki.openwrt.org/toh/raspberry_pi_foundation/raspberry_pi)
+
 more network'n bits
 * https://github.com/scanlime/fadecandy/blob/master/doc/fc_protocol_websocket.md
 * https://github.com/scanlime/fadecandy/blob/master/doc/fc_server_config.md
