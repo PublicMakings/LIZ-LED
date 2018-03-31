@@ -1,4 +1,8 @@
 # LIZ-LED
+http://scanlime.org/2014/02/standalone-wifi-fadecandy-server/
+https://github.com/scanlime/fadecandy/blob/master/doc/fc_protocol_websocket.md
+https://github.com/scanlime/fadecandy/blob/master/doc/fc_server_config.md
+
 1.27.18
 [because of processing 3](https://groups.google.com/forum/#!topic/fadecandy/AMPRMHGqunE) make this change in OPC.pde around line 30.
 registerMethod("draw", this);
