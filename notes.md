@@ -25,6 +25,9 @@ https://groups.google.com/forum/#!topic/fadecandy/78uujjqxRN0
 * [video demo of fading text in processing](https://www.youtube.com/watch?v=4DnPb1iT2Hk)
 * [video/audio codec bs](https://discourse.processing.org/t/which-video-library-for-playing-video-from-rpi/962/17)
 * [still don't understand *garbage collection*](https://stackoverflow.com/questions/16695874/why-does-the-jvm-full-gc-need-to-stop-the-world)
+* [speed up pi perfromance](https://www.makeuseof.com/tag/raspberry-pi-performance-tips/)
+* [LEARN ABOUT THREADING](https://processing.org/reference/thread_.html)
+* [multi window sketch](https://gist.github.com/atduskgreg/666e46c8408e2a33b09a)
 
 ---
 ## ~~power button~~ and wifi and screen resolution
@@ -40,3 +43,15 @@ https://groups.google.com/forum/#!topic/fadecandy/78uujjqxRN0
 * [pi mirror](https://raspberrypi.stackexchange.com/questions/57307/pir-motion-sensor)
 * [more pir](https://maker.pro/raspberry-pi/tutorial/how-to-interface-a-pir-motion-sensor-with-raspberry-pi-gpio)
  * [& more pir](https://www.hackster.io/hardikrathod/pir-motion-sensor-with-raspberry-pi-415c04)
+  * [& more...](https://www.msigeek.com/1029/interfacing-motion-detector-sensor-raspberry-pi-3)
+  * [pi my life one](https://pimylifeup.com/raspberry-pi-motion-sensor/)
+  * [duplicate?](https://maker.pro/raspberry-pi/tutorial/how-to-interface-a-pir-motion-sensor-with-raspberry-pi-gpio)
+ 
+ ## advanced level
+ * [system.md startup](https://www.baldengineer.com/raspberry-pi-startup-script-tutorial.html)
+ * [script at shutdown](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=56118)
+ * [calling gc() in processing](https://forum.processing.org/two/discussion/23111/performance-and-memory-issues)
+ 
+ ## electrical wiring
+ 
+ * [wiring color codes](https://www.allaboutcircuits.com/textbook/reference/chpt-2/wiring-color-codes/)
